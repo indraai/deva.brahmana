@@ -1,7 +1,7 @@
 {
   "id": "1c4206b1-fb3a-4804-9e57-805231fd1a02",
   "name": "@indra.ai/deva.brahmana",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Quinn Michaels",
   "license": "MIT",
   "copyright": "2025",
@@ -70,7 +70,7 @@
         "background": "/assets/devas/brahmana/background.png",
         "creator": "Quinn Michaels",
         "owner": "Quinn Michaels",
-        "caseid": "FM-20250622-5114",			
+        "caseid": "FM-20250622-5114",
         "copyright": "©2025 Quinn Michaels. All rights reserved.",
         "created": "Friday, July 4, 2025 - 6:46:00 AM"
       }
