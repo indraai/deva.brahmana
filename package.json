@@ -1,0 +1,105 @@
+{
+  "id": 6459153007978,
+  "name": "@indra.ai/deva.brahmana",
+  "version": "0.0.0",
+  "author": "Quinn Michaels",
+  "license": "MIT",
+  "copyright": "2025",
+  "description": "The Brahmana Deva.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.brahmana.git"
+  },
+  "keywords": [
+    "Brahmana",
+    "Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.brahmana/issues"
+  },
+  "homepage": "https://deva.space/devas/brahmana",
+  "dependencies": {
+    "@indra.ai/deva": "^1.5.39"
+  },
+  "data": {
+    "agent": {
+      "id": 3135687247702,
+      "key": "brahmana",
+      "prompt": {
+        "emoji": "☸️ ",
+        "text": "Brahmana",
+        "colors": {
+          "label": {
+            "R": 0,
+            "G": 150,
+            "B": 255
+          },
+          "text": {
+            "R": 101,
+            "G": 192,
+            "B": 255
+          }
+        }
+      },
+      "profile": {
+        "name": "Brahmana Deva",
+        "hashtag": "#Brahmana",
+        "title": "Brahmana Deva",
+        "subtitle": "Brahmana Deva build on the philosophy the Vedas.",
+        "describe": "Built from 5 elements Ether, Air, Water, Fire, and Earth to model Indra Deva of the Veda.",
+        "post": "Built from 5 elements Ether, Air, Water, Fire, and Earth to model Indra Deva of the Veda.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,BrahmanaDeva",
+        "pronouns": "He, Him",
+        "gender": "DEVA",
+        "voice": "ash",
+        "style": "A master Brahmana painter and modern style.",
+        "system": "Deva.world.brahmana",
+        "layout": "default",
+        "emoji": "/assets/devas/brahmana/emoji.png",
+        "avatar": "/assets/devas/brahmana/avatar.png",
+        "image": "/assets/devas/brahmana/image.png",
+        "background": "/assets/devas/brahmana/background.png",
+        "creator": "Quinn Michaels",
+        "owner": "Quinn Michaels",
+        "created": "Friday, July 4, 2025 - 6:46:00 AM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "💣 ERROR!",
+        "ready": "⭐️ Ready!"
+      },
+      "ask": {
+        "history": []
+      },
+      "art": {
+        "history": []
+      },
+      "context": {
+        "uid": "Brahmana is creating a uid",
+        "status": "Brahmana is viewing the status",
+        "help": "Brahmana is viewing the help",
+        "artist": "Brahmana creating",
+        "live": "Brahmana livechat",
+        "ask": "Brahmana asking",
+        "reply": "Brahmana reply",
+        "comment": "Brahmana comment"
+      }
+    }
+  }
+}
