@@ -1,3 +1,4 @@
+::BEGIN:MAIN
 # {{agent.name}}
 
 {{profile}}
@@ -16,3 +17,4 @@
 >  (The king) should carefully compel Vaisyas and Sudra to perform the work (prescribed) for them; for if these two (castes) swerved from their duties, they would throw this (whole) world into confusion.
 
 copyright: ©2025 Quinn Michaels
+::END:MAIN
