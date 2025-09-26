@@ -1,10 +1,39 @@
 {
-  "id": "61d8f817-511b-4afc-9bda-d40551bcd697",
+  "id": "31667674268106960473",
   "name": "@indra.ai/deva.brahmana",
   "version": "0.0.22",
-  "author": "Quinn Michaels",
-  "license": "MIT",
-  "copyright": "2025",
+  "license": "VLA:31667674268106960473 LICENSE.md",
+  "VLA": {
+    "uid": "31667674268106960473",
+    "time": 1758865049117,
+    "date": "Thursday, September 25, 2025 - 10:37:29 PM",
+    "client": "YU6ZN7+9fnPPRFZ8CX4bP46uoWUSyqddILT6l6xeIVI=",
+    "agent": "0CqUv385hNOyDpLunHKPdg/kkaAXVY2bYti4yP3En5w=",
+    "core": "NHcFfowqwPTB/NeAlPubuT1TSZyg9+fT4Jr765bU4jQ=",
+    "machine": "iwqAVpRQYy9sHizveLJ2EIRhtMhTPrEaPOKZSuzzShQ=",
+    "warning": "⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "uu4sjV+Qt4McYcBYItk0pQ==",
+    "sha256": "MVluies2WgNrjxbZobkdl5ap2kKdRlkM8e/jpXvS5PI=",
+    "sha512": "6OJHl4v5bPWJ8T8+QuEIOIZ4gI0528ICCq6/RjbEiZDHW7YSy76btmgp8tDEWrsdABKd8oZt/vETgEU3XDKV0A=="
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
   "description": "The Brahmana Deva.",
   "main": "index.js",
   "type": "module",
@@ -18,25 +47,28 @@
   "keywords": [
     "Brahmana",
     "Deva",
+    "Brahmana Deva",
     "Indra.ai",
     "Deva.space",
     "Deva.cloud",
-    "Deva.world"
+    "Deva.world",
+    "Quinn A Michaels",
+    "Inside The Net, Inc."
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.brahmana/issues"
   },
-  "homepage": "https://deva.space/devas/brahmana",
+  "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.6.9"
+    "@indra.ai/deva": "^1.6.102"
   },
   "data": {
     "agent": {
-      "id": "635d2e78-bfcd-4041-bebf-549a1ef9f5e0",
+      "id": "29340535011346543274",
       "key": "brahmana",
       "prompt": {
         "emoji": "🕉️",
-        "text": "Brahmana",
+        "text": "#brahmana",
         "colors": {
           "label": {
             "R": 0,
@@ -51,6 +83,7 @@
         }
       },
       "profile": {
+        "id": "22221524229415767040",
         "name": "Brahmana Deva",
         "hashtag": "#Brahmana",
         "title": "Brahmana Deva",
@@ -64,14 +97,13 @@
         "style": "A master Brahmana painter and modern style.",
         "system": "Deva.world.brahmana",
         "layout": "default",
-        "emoji": "/assets/devas/brahmana/emoji.png",
-        "avatar": "/assets/devas/brahmana/avatar.png",
-        "image": "/assets/devas/brahmana/image.png",
-        "background": "/assets/devas/brahmana/background.png",
-        "creator": "Quinn Michaels",
-        "owner": "Quinn Michaels",
-        "caseid": "FM-20250622-5114",
-        "copyright": "©2025 Quinn Michaels. All rights reserved.",
+        "emoji": "/assets/emoji.png",
+        "avatar": "/assets/avatar.png",
+        "image": "/assets/image.png",
+        "background": "/assets/background.png",
+        "creator": "Quinn A Michaels",
+        "owner": "Quinn A Michaels",
+        "copyright": "Copyright ©2025 Quinn Michaels. All rights reserved.",
         "created": "Friday, July 4, 2025 - 6:46:00 AM"
       }
     },
@@ -84,7 +116,7 @@
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "💣 ERROR!",
-        "ready": "⭐️ Ready!"
+        "ready": "✅ Brahmana Deva Ready"
       },
       "ask": {
         "history": []
