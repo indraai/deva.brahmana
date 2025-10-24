@@ -53,7 +53,9 @@
     "Deva.cloud",
     "Deva.world",
     "Quinn A Michaels",
-    "Inside The Net, Inc."
+    "Inside The Net, Inc.",
+    "Throwing Pigment",
+    "bleuBrain"
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.brahmana/issues"
@@ -97,12 +99,13 @@
         "style": "A master Brahmana painter and modern style.",
         "system": "Deva.world.brahmana",
         "layout": "default",
-        "emoji": "/assets/emoji.png",
-        "avatar": "/assets/avatar.png",
-        "image": "/assets/image.png",
-        "background": "/assets/background.png",
+        "emoji": "/devas/brahmana/emoji.png",
+        "avatar": "/devas/brahmana/avatar.png",
+        "image": "/devas/brahmana/image.png",
+        "background": "/devas/brahmana/background.png",
         "creator": "Quinn A Michaels",
         "owner": "Quinn A Michaels",
+        "uid_warning": "On account of his pre-eminence, on account of the superiority of his origin, on account of his observance of particular restrictive rules, and on account of his particular sanctification the Brahmana is the lord of all castes.",
         "copyright": "Copyright ©2025 Quinn Michaels. All rights reserved.",
         "created": "Friday, July 4, 2025 - 6:46:00 AM"
       }
